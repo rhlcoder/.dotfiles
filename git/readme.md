@@ -10,3 +10,10 @@ excludesfile = \"C:\\Users\\nombreDeUsuario\\.gitignore\" (se puede poner donde 
 mas info: https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore/
 
 el gitignore global fue generado con gitignore.io
+
+incluye:
+- windows
+- node
+- yarn
+- vscode
+- intellij idea
