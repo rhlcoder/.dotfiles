@@ -1,0 +1,11 @@
+[core]
+	editor = \"C:\\Users\\ric\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	excludesfile = \"C:\\Users\\ric\\.gitignore"
+[user]
+	email = rhlcoder@gmail.com
+	name = rhl
+[gui]
+	recentrepo = F:/OneDrive/dv/PAII
+	recentrepo = F:/Desktop/svelte-tailwind
+[init]
+	defaultBranch = main
