@@ -1,8 +1,3 @@
-# Configuracion global de gitignore
-# en .gitconfig agregar la siguiente linea:
-# [core]
-# excludesfile = \"C:\\Users\\ric\\.gitignore" (o donde corresponda)
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
